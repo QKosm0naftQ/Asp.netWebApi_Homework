@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiPizushi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4bca0489bccc1270fe811dc23906fa0872af6ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e45e6234af78f2f7916ca0cfc3467f60169876")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiPizushi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiPizushi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

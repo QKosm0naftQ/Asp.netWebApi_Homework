@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\models\\category\\categoryitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:models\\category\\categoryitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\mapper\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:mapper\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\models\\category\\categorycreateitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:models\\category\\categorycreateitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\data\\appdbpizushi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:data\\appdbpizushi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|c:\\users\\kostya\\source\\website\\asp.net_webapi\\webapipizushi\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6142965B-1CA2-4D71-96DC-FEF71E4819FC}|WebApiPizushi.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryItemModel.cs",
-              "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Models\\Category\\CategoryItemModel.cs",
-              "RelativeDocumentMoniker": "Models\\Category\\CategoryItemModel.cs",
-              "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Models\\Category\\CategoryItemModel.cs",
-              "RelativeToolTip": "Models\\Category\\CategoryItemModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryCreateItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Models\\Category\\CategoryCreateItemModel.cs",
+              "RelativeDocumentMoniker": "Models\\Category\\CategoryCreateItemModel.cs",
+              "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Models\\Category\\CategoryCreateItemModel.cs",
+              "RelativeToolTip": "Models\\Category\\CategoryCreateItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:02:13.256Z",
+              "WhenOpened": "2025-05-14T19:32:44.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T17:44:57.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DbSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Data\\DbSeeder.cs",
               "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
@@ -85,20 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Mapper\\CategoryMapper.cs",
-              "RelativeDocumentMoniker": "Mapper\\CategoryMapper.cs",
-              "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Mapper\\CategoryMapper.cs",
-              "RelativeToolTip": "Mapper\\CategoryMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:22:57.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AppDbPizushi.cs",
               "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Data\\AppDbPizushi.cs",
               "RelativeDocumentMoniker": "Data\\AppDbPizushi.cs",
@@ -107,19 +86,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T16:52:30.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\WebApiPizushi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:40:25.638Z",
               "EditorCaption": ""
             }
           ]

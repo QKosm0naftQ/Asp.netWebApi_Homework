@@ -11,6 +11,8 @@ namespace WebApiPizushi.Mapper
         {
             CreateMap<SeederCategoryModel, CategoryEntity>();
             CreateMap<CategoryEntity, CategoryItemModel>();
+            CreateMap<CategoryCreateItemModel, CategoryEntity>()
+              .ForMember(x => x.Image , opt => opt.Ignore());
 
         }
     }
