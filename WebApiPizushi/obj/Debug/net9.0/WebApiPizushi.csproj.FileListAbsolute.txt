@@ -140,3 +140,8 @@ C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\obj\Debug\net9.0\Web
 C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\obj\Debug\net9.0\WebApiPizushi.sourcelink.json
 C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\obj\Debug\net9.0\WebApiPi.4B0CA23A.Up2Date
 C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\bin\Debug\net9.0\Helpers\JsonData\Categories.json
+C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kostya\source\WebSite\asp.net_webApi\WebApiPizushi\obj\Debug\net9.0\WebApiPizushi.MvcApplicationPartsAssemblyInfo.cs

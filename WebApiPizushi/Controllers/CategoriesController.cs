@@ -12,7 +12,7 @@ namespace WebApiPizushi.Controllers
     [ApiController]
     [Route("api/[controller]")]
     public class CategoriesController 
-        (AppDbPizushiContext appDbPizushiContext ,IMapper mapper , IImageService imageService): Controller
+        (AppDbPizushiContext appDbPizushiContext ,IMapper mapper , IImageService imageService): ControllerBase
     {
         [HttpGet]
         public async Task<IActionResult> List()
@@ -22,12 +22,12 @@ namespace WebApiPizushi.Controllers
             return Ok(model);
         }
         [HttpPost]
-        [Consumes("multipart/form-data")]
-        public async Task<IActionResult> CreateCategory([FromForm] CategoryCreateItemModel model, [FromForm] IFormFile image)
+        //[Consumes("multipart/form-data")]
+        public async Task<IActionResult> CreateCategory([FromForm] CategoryCreateItemModel model)
         {
             try
             {
-                if (image == null || image.Length == 0)
+                if (model.Image == null || model.Image.Length == 0)
                 {
                     return BadRequest("Погане фото/bad");
                 }
@@ -46,7 +46,7 @@ namespace WebApiPizushi.Controllers
             {
                 return BadRequest(ex.Message);
             }
-    }
+        }
 
 
     }

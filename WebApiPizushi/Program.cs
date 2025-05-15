@@ -16,11 +16,22 @@ builder.Services.AddScoped<IImageService,ImageService>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+builder.Services.AddSwaggerGen();
+
+builder.Services.AddCors();
+
 builder.Services.AddControllers();
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+
+app.UseCors(x => x.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()); 
+
+app.UseSwagger();
+
+app.UseSwaggerUI();
+
 
 app.UseAuthorization();
 

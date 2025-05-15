@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67A6C4C-4782-4ECD-B601-2FA58FC259F7}|C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project|c:\\users\\kostya\\source\\website\\asp.net_webapi\\project\\my-pizushi\\src\\pages\\categories\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B67A6C4C-4782-4ECD-B601-2FA58FC259F7}|C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project|solutionrelative:my-pizushi\\src\\pages\\categories\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67A6C4C-4782-4ECD-B601-2FA58FC259F7}|C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project|c:\\users\\kostya\\source\\website\\asp.net_webapi\\project\\my-pizushi\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B67A6C4C-4782-4ECD-B601-2FA58FC259F7}|C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project|solutionrelative:my-pizushi\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67A6C4C-4782-4ECD-B601-2FA58FC259F7}|C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project|c:\\users\\kostya\\source\\website\\asp.net_webapi\\project\\my-pizushi\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B67A6C4C-4782-4ECD-B601-2FA58FC259F7}|C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project|solutionrelative:my-pizushi\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project\\my-pizushi\\src\\Pages\\categories\\index.js",
+              "RelativeDocumentMoniker": "my-pizushi\\src\\Pages\\categories\\index.js",
+              "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project\\my-pizushi\\src\\Pages\\categories\\index.js",
+              "RelativeToolTip": "my-pizushi\\src\\Pages\\categories\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T17:42:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project\\my-pizushi\\src\\App.js",
+              "RelativeDocumentMoniker": "my-pizushi\\src\\App.js",
+              "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project\\my-pizushi\\src\\App.js",
+              "RelativeToolTip": "my-pizushi\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T15:43:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project\\my-pizushi\\src\\index.js",
+              "RelativeDocumentMoniker": "my-pizushi\\src\\index.js",
+              "ToolTip": "C:\\Users\\Kostya\\source\\WebSite\\asp.net_webApi\\Project\\my-pizushi\\src\\index.js",
+              "RelativeToolTip": "my-pizushi\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T17:28:16.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
